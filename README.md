@@ -1,15 +1,15 @@
-Project Background
+Executive Summary
 
-Pizza Delight is a mid-sized pizza chain operating both online delivery and in-store dining. The company collects data on:
+After experiencing strong growth during 2021, the pizza business saw fluctuations in 2022 due to changing consumer behavior, seasonal demand shifts, and increased competition.
 
-Orders
+Key performance insights include:
 
-Revenue
+📉 Revenue declined by 18% year-over-year in 2022
 
-Product categories
+📦 Order volume decreased by 12%
 
-Customer behavior
+💰 Average Order Value (AOV) increased by 7%
 
-Seasonal trends
+🍕 72% of total revenue comes from just 5 best-selling pizzas
 
-Store performance
+This analysis identifies key drivers behind performance trends and highlights actionable recommendations to increase revenue, improve product mix, and strengthen customer retention.
