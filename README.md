@@ -13,3 +13,20 @@ Key performance insights include:
 🍕 72% of total revenue comes from just 5 best-selling pizzas
 
 This analysis identifies key drivers behind performance trends and highlights actionable recommendations to increase revenue, improve product mix, and strengthen customer retention.
+ Project Background
+
+Pizza Delight is a mid-sized pizza chain operating both online delivery and in-store dining. The company collects data on:
+
+Orders
+
+Revenue
+
+Product categories
+
+Customer behavior
+
+Seasonal trends
+
+Store performance
+
+However, this data had not been fully analyzed to uncover strategic insights.
